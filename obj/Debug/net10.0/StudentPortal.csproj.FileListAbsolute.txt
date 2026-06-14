@@ -1,0 +1,15 @@
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/bin/Debug/net10.0/StudentPortal
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/bin/Debug/net10.0/StudentPortal.deps.json
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/bin/Debug/net10.0/StudentPortal.runtimeconfig.json
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/bin/Debug/net10.0/StudentPortal.dll
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/bin/Debug/net10.0/StudentPortal.pdb
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/StudentPortal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/StudentPortal.AssemblyInfoInputs.cache
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/StudentPortal.AssemblyInfo.cs
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/StudentPortal.csproj.CoreCompileInputs.cache
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/StudentPortal.sourcelink.json
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/StudentPortal.dll
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/refint/StudentPortal.dll
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/StudentPortal.pdb
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/StudentPortal.genruntimeconfig.cache
+/Users/tensumsalla/Downloads/SBSC Backend Masterclass/StudentPortal/obj/Debug/net10.0/ref/StudentPortal.dll
