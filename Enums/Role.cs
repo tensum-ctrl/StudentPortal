@@ -1,10 +1,11 @@
-namespace StudentPortal.Enums
+namespace studentportal.Enums
 {
     public enum Role
     {
-        Admin = 1,
-        Customer,
-        Staff
+        SuperAdmin = 1,
+        Admin,
+        Student,
+        Instructor
 
     }
 }

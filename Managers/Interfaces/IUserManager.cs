@@ -1,18 +1,13 @@
-using System.Linq;
-using System.Threading.Tasks;
-using StudentPortal.Models;
+using studentportal.Models;
+using studentportal.Enums;
 
-namespace StudentPortal.Managers.Interfaces
+namespace studentportal.Managers.Interfaces
 {
     public interface IUserManager
     {
+        void InitializeDefaultSuperAdmin();
        public User? Login();
-        void CreateAdmin(string loginUser);
-        public User Register();
-        void UpdateUser(string loginUser);
-        public void UpdateUser(User user);
-        void GetUserByEmail(string email);
-        void GetUserById(int id);
-        void GetAll();
+        void CreateAdmin(string loginUser, Role role);
+        public User StudentRegister();
     }
 }
