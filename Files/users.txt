@@ -1,54 +1,30 @@
 [
   {
-    "FirstName": "Admin",
-    "LastName": "User",
+    "StaffId": "SYS001",
+    "FirstName": "Super",
+    "LastName": "Admin",
     "PhoneNumber": null,
-    "Email": "admin@buymore.com",
+    "Email": "admin@sbsc.com",
     "EncryptedPassword": "fhWB\u002BnyNhDKs5JMfSlqHSIxkb3MlJA2ImB6wE9OUDNk=",
     "Address": null,
     "Role": 1,
     "WalletBalance": 0,
     "Id": 1,
-    "CreatedDate": "2026-06-16T19:49:26.132019+01:00",
+    "CreatedDate": "2026-06-28T12:03:14.679245+01:00",
     "CreatedBy": "System"
   },
   {
+    "StaffId": null,
     "FirstName": "tensum",
     "LastName": "salla",
-    "PhoneNumber": null,
+    "PhoneNumber": "09025181568",
     "Email": "tsalla@gmail.com",
-    "EncryptedPassword": "sETKZ/N8UwPlDKa0Kw9bMhdZd/sH4cT1j3s4lpLH8XE=",
-    "Address": null,
+    "EncryptedPassword": "test123",
+    "Address": "123 street",
     "Role": 2,
     "WalletBalance": 0,
     "Id": 2,
-    "CreatedDate": "2026-06-16T19:50:42.547103+01:00",
-    "CreatedBy": "tsalla@gmail.com"
-  },
-  {
-    "FirstName": "ten",
-    "LastName": "sum",
-    "PhoneNumber": null,
-    "Email": "tsalla@gamil.com",
-    "EncryptedPassword": "R6caHvzWiWdVoankgjMHNwu5yu82/5QlryGpnVftaFw=",
-    "Address": null,
-    "Role": 2,
-    "WalletBalance": 0,
-    "Id": 3,
-    "CreatedDate": "2026-06-19T16:33:01.503841+01:00",
-    "CreatedBy": "tsalla@gamil.com"
-  },
-  {
-    "FirstName": "0",
-    "LastName": "",
-    "PhoneNumber": null,
-    "Email": "0",
-    "EncryptedPassword": "CT5UN7F4GZJOnARmyu3f/IOkF\u002BkkfoZeQzmwypdzEjw=",
-    "Address": null,
-    "Role": 2,
-    "WalletBalance": 0,
-    "Id": 1,
-    "CreatedDate": "2026-06-19T16:34:43.814669+01:00",
-    "CreatedBy": "0"
+    "CreatedDate": "2026-06-28T12:04:57.639931+01:00",
+    "CreatedBy": "admin@sbsc.com"
   }
 ]

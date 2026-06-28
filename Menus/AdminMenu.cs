@@ -49,6 +49,68 @@ namespace studentportal.Menus
                         _userManager.CreateAdmin(admin.Email, role);
                         break;
 
+                    case "2":
+
+                        var admins = _userManager.GetAdmins();
+
+                        if (!admins.Any())
+                        {
+                            Console.WriteLine("No admins found.");
+                        }
+                        else
+                        {
+                            foreach (var item in admins)
+                            {
+                                Console.WriteLine(item);
+                            }
+                        }
+
+                        break;
+
+                    case "3":
+
+                        var students = _userManager.GetStudents();
+
+                        if (!students.Any())
+                        {
+                            Console.WriteLine("No students found.");
+                        }
+                        else
+                        {
+                            foreach (var item in students)
+                            {
+                                Console.WriteLine(item);
+                            }
+                        }
+
+                        break;
+
+                    case "4":
+
+                        _userManager.CreateInstructor(admin.Email);
+
+                        break;
+
+                    case "5":
+
+                        var instructors = _userManager.GetInstructors();
+
+                        if (!instructors.Any())
+                        {
+                            Console.WriteLine("No instructors found.");
+                        }
+                        else
+                        {
+                            foreach (var item in instructors)
+                            {
+                                Console.WriteLine(item);
+                            }
+                        }
+
+                        break;
+
+
+
                     case "0":
                         exit = true;
                         break;

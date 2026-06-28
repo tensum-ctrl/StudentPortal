@@ -4,8 +4,6 @@ using studentportal.Enums;
 
 var userManager = new UserManager();
 
-userManager.InitializeDefaultSuperAdmin();
-
 var adminMenu = new AdminMenu(userManager);
 
 var user = userManager.Login();
@@ -18,4 +16,5 @@ if (user != null &&
 else
 {
     Console.WriteLine("Invalid login or access denied.");
+    Console.WriteLine(AppDomain.CurrentDomain.BaseDirectory);
 }

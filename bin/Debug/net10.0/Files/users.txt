@@ -1,0 +1,16 @@
+[
+  {
+    "StaffId": "SYS001",
+    "FirstName": "Super",
+    "LastName": "Admin",
+    "PhoneNumber": null,
+    "Email": "admin@sbsc.com",
+    "EncryptedPassword": "Admin@123",
+    "Address": null,
+    "Role": 1,
+    "WalletBalance": 0,
+    "Id": 1,
+    "CreatedDate": "2026-06-28T11:45:11.435797+01:00",
+    "CreatedBy": "System"
+  }
+]
